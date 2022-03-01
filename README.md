@@ -4,11 +4,16 @@ TP de l'app IMC de Florian PLANQUE MILLE et Alexis GOMEZ
 
 ## Installation
 ***
-* Créer un répertoire en utilisant expo
-`expo init app-imc`
+* Dans un terminal lancer la commande
+`git clone https://github.com/reliu-s/TP-app-IMC.git`
 
 
-* Choisir le template `blank`
+* Se déplacer dans le bon repertoire
+`cd TP-app-IMC`
+
+
+* Installer les dépendances 
+`npm install`
 
 
 * Demarrer le serveur
